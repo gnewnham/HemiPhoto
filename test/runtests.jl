@@ -17,4 +17,3 @@ using Test, Images
 	# @test (round(LaiObj.LAI, digits=2) == 0.44)
 
 end
-round(HemiPhoto.HemiLAI.getZenithArray(img)[1,1], digits=2)
