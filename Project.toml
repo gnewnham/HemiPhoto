@@ -1,7 +1,7 @@
 name = "HemiPhoto"
 uuid = "eb833249-a8f7-4ae3-9d6a-d610d08ea296"
 authors = ["Glenn Newnham"]
-version = "0.1.2"
+version = "0.1.3"
 
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
