@@ -8,16 +8,17 @@ DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
 ImageBinarization = "cbc4b850-ae4b-5111-9e64-df94c024a13d"
 ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
 Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 
 [compat]
-Images = "0.25"
-GLM = "1"
-ImageCore = "0.9"
 DataFrames = "1"
-Plots = "1"
+GLM = "1"
 ImageBinarization = "0.2"
+ImageCore = "0.9"
+Images = "0.25"
+Plots = "1"
 julia = "1.7"
 
 [extras]
