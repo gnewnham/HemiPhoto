@@ -2,8 +2,8 @@ using HemiPhoto
 using Test, Images
 
 @testset "HemiPhoto.jl" begin
-	## load the image
-	file = "./Mt_Gowler_Hemi.jpg"
+	# load the image
+	file = "./test/Mt_Gowler_Hemi.jpg"
 
 	## test the zenith array
 	img = Images.load(file)
